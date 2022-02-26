@@ -1,0 +1,252 @@
+﻿name,image,parentsName,level
+Thuốc không kê đơn,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/Thu%E1%BB%91c_ko_k%C3%AA_%C4%91%C6%A1n.png,duoc-pham,2
+Thuốc kháng dị ứng,,thuoc-khong-ke-don,3
+Thuốc kháng viêm,,thuoc-khong-ke-don,3
+Thuốc ngừa thai,,thuoc-khong-ke-don,3
+Thuốc cảm lạnh,,thuoc-khong-ke-don,3
+Thuốc da liễu,,thuoc-khong-ke-don,3
+Thuốc giảm cân,,thuoc-khong-ke-don,3
+Thuốc Mắt/Tai/Mũi,,thuoc-khong-ke-don,3
+Thuốc tiêu hóa,,thuoc-khong-ke-don,3
+Thuốc dành cho nam,,thuoc-khong-ke-don,3
+"Giảm đau, hạ sốt",,thuoc-khong-ke-don,3
+Thuốc dành cho phụ nữ,,thuoc-khong-ke-don,3
+Thuốc thần kinh,,thuoc-khong-ke-don,3
+Thuốc cơ xương khớp,,thuoc-khong-ke-don,3
+Vitamin & Khoáng chất,,thuoc-khong-ke-don,3
+"Dầu gió, dầu cù là ...",,thuoc-khong-ke-don,3
+Thuốc khác,,thuoc-khong-ke-don,3
+Thuốc kê đơn,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/P00218_Rx_Da_li%E1%BB%85u.png,duoc-pham,2
+RX Sản phẩm khác,,thuoc-ke-don,3
+RX Kháng dị ứng,,thuoc-ke-don,3
+Rx Thuốc tiểu đường,,thuoc-ke-don,3
+Rx Thuốc kháng viêm,,thuoc-ke-don,3
+Rx Thuốc kháng sinh,,thuoc-ke-don,3
+"Rx Thuốc tim mạch, huyết áp",,thuoc-ke-don,3
+Rx Thuốc ngừa thai,,thuoc-ke-don,3
+"Rx Thuốc cảm lạnh, ho",,thuoc-ke-don,3
+Rx Thuốc da liễu,,thuoc-ke-don,3
+Rx Thuốc Mắt/Tai/Mũi,,thuoc-ke-don,3
+Rx Thuốc tiêu hóa,,thuoc-ke-don,3
+Rx Thuốc cho nam giới,,thuoc-ke-don,3
+"Rx Thuốc giảm đau, hạ sốt",,thuoc-ke-don,3
+Rx Thuốc dành cho nữ,,thuoc-ke-don,3
+Rx Thuốc thần kinh,,thuoc-ke-don,3
+Rx Thuốc cơ xương khớp,,thuoc-ke-don,3
+Rx Vitamin & Khoáng chất,,thuoc-ke-don,3
+Rx Hệ hô hấp,,thuoc-ke-don,3
+Rx Thuốc khác,,thuoc-ke-don,3
+Chăm sóc em bé,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/photo_2021-08-23_21-10-35_8080.png,me-va-be,2
+Phụ kiện cho bé,,cham-soc-em-be,3
+Kem & dầu dưỡng cho bé,,cham-soc-em-be,3
+Phấn rôm,,cham-soc-em-be,3
+Đồ dùng phòng tắm cho bé,,cham-soc-em-be,3
+Dầu gội cho bé,,cham-soc-em-be,3
+Tã cho bé,,cham-soc-em-be,3
+Sản phẩm chống muỗi cho bé,,cham-soc-em-be,3
+Khăn ướt cho bé,,cham-soc-em-be,3
+Sản phẩm chăm sóc sức khoẻ cho bé,,cham-soc-em-be,3
+Thực phẩm dành cho bé,,cham-soc-em-be,3
+ Sữa dành cho bé,,cham-soc-em-be,3
+Chăm sóc cá nhân cho bé,,cham-soc-em-be,3
+Tăm bông cho bé,,cham-soc-em-be,3
+TPCN dành cho trẻ em,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.12_6.12-TPCN_D%C3%A0nh_cho_tr%E1%BA%BB_em_6.12-VMS_For_Kids_TPCN_Danh_cho_tre_em.png,me-va-be,2
+TPCN cho não của trẻ,,tpcn-danh-cho-tre-em,3
+TPCN tiêu hóa cho trẻ,,tpcn-danh-cho-tre-em,3
+TPCN dành cho mắt của trẻ,,tpcn-danh-cho-tre-em,3
+TPCN tăng chiều cao cho trẻ,,tpcn-danh-cho-tre-em,3
+TPCN tổng hợp cho trẻ,,tpcn-danh-cho-tre-em,3
+TPCN tăng cân cho trẻ,,tpcn-danh-cho-tre-em,3
+TPCN khác cho trẻ,,tpcn-danh-cho-tre-em,3
+TPCN Cung cấp vit D cho bé,,tpcn-danh-cho-tre-em,3
+Sản phẩm dành cho mẹ,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/photo_2021-08-23_21-08-20.png,me-va-be,2
+Dầu dưỡng thể cho mẹ,,san-pham-danh-cho-me,3
+Sữa cho mẹ,,san-pham-danh-cho-me,3
+Phụ kiện cho mẹ,,san-pham-danh-cho-me,3
+Băng lót cho mẹ,,san-pham-danh-cho-me,3
+Dụng cụ chăm sóc cho mẹ,,san-pham-danh-cho-me,3
+Dung dịch cho mẹ,,san-pham-danh-cho-me,3
+Thực phẩm cho mẹ,,san-pham-danh-cho-me,3
+Chăm sóc da mặt cho mẹ,,san-pham-danh-cho-me,3
+TPCN dành cho phụ nữ mang thai,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.16.png,me-va-be,2
+Thực phẩm dinh dưỡng,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.04Th%E1%BB%B1c_ph%E1%BA%A9m_dinh_d%C6%B0%E1%BB%A1ng_2.04-Nutrition_Food_Thuc_pham_dinh_duong.jpg,cham-soc-suc-khoe,2
+Sữa dinh dưỡng,,thuc-pham-dinh-duong,3
+Thức uống có lợi cho sức khỏe,,thuc-pham-dinh-duong,3
+Thực phẩm có lợi cho sức khỏe,,thuc-pham-dinh-duong,3
+Dinh dưỡng thể thao-thể hình,,thuc-pham-dinh-duong,3
+Dụng cụ sơ cứu,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.06_D%E1%BB%A5ng_c%E1%BB%A5_s%C6%A1_c%E1%BB%A9u_2.06-First_Aids_Dung_cu_so_cuu1.jpg,cham-soc-suc-khoe,2
+Băng gạc,,dung-cu-so-cuu,3
+Sản phẩm chăm sóc vết thương,,dung-cu-so-cuu,3
+Hỗ trợ chấn thương thể thao,,dung-cu-so-cuu,3
+Vớ chống giãn tĩnh mạch,,dung-cu-so-cuu,3
+Dụng cụ thể thao,,dung-cu-so-cuu,3
+Kế hoạch gia đình,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.07_K%E1%BA%BF_ho%E1%BA%A1ch_gia_%C4%91%C3%ACnh_2.07-Family_Planning_Ke_hoach_gia_dinh_-_Copy.jpg,cham-soc-suc-khoe,2
+Bao cao su,,ke-hoach-gia-dinh,3
+Gel bôi trơn,,ke-hoach-gia-dinh,3
+Que thử thai,,ke-hoach-gia-dinh,3
+Que thử rụng trứng,,ke-hoach-gia-dinh,3
+Chăm sóc Mắt/Tai/Mũi,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.08_Ch%C4%83m_s%C3%B3c_M%E1%BA%AFtTaiM%C5%A9i_2.08-For_EyeEarNose_Cham_soc_MatTaiMui.jpg,cham-soc-suc-khoe,2
+Kính sát tròng,,cham-soc-mat/tai/mui,3
+Nước ngâm kính sát tròng,,cham-soc-mat/tai/mui,3
+Thuốc nhỏ mắt,,cham-soc-mat/tai/mui,3
+Mỡ mắt và Thuốc nhỏ mắt chuyên sâu,,cham-soc-mat/tai/mui,3
+Thuốc nhỏ tai,,cham-soc-mat/tai/mui,3
+Thuốc xịt mũi,,cham-soc-mat/tai/mui,3
+Sản phẩm khác,,cham-soc-mat/tai/mui,3
+Thuốc xịt mũi trẻ em,,cham-soc-mat/tai/mui,3
+Kính mắt,,cham-soc-mat/tai/mui,3
+Kính đọc,,cham-soc-mat/tai/mui,3
+Kính bảo hộ,,cham-soc-mat/tai/mui,3
+Kính bơi,,cham-soc-mat/tai/mui,3
+Chăm sóc chân,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.09_Ch%C4%83m_s%C3%B3c_ch%C3%A2n_2.09-Foot_Care_Cham_soc_chan2.jpg,cham-soc-suc-khoe,2
+Miếng đệm chân,,cham-soc-chan,3
+Sản phẩm khử mùi hôi chân,,cham-soc-chan,3
+Dụng cụ chăm sóc chân,,cham-soc-chan,3
+Kem trị nứt gót chân,,cham-soc-chan,3
+Dưỡng da chân & tẩy tế bào chết,,cham-soc-chan,3
+Mặt nạ chân,,cham-soc-chan,3
+ Khẩu trang y tế,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.10_Kh%E1%BA%A9u_trang_y_t%E1%BA%BF_2.10-Medical_Face_Mask_Khau_trang_y_te.jpg,cham-soc-suc-khoe,2
+Chống muỗi,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.11.png,cham-soc-suc-khoe,2
+"Dầu tràm, dầu xoa bóp",https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2.12.png,cham-soc-suc-khoe,2
+TPCN Nhóm dạ dày,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.01_6.01-TPCN_Nh%C3%B3m_ti%C3%AAu_h%C3%B3a_6.01-VMS_For_Stomach_TPCN_Nhom_tieu_hoa.png,thuc-pham-chuc-nang,2
+TPCN cho Dạ Dày,,tpcn-nhom-da-day,3
+TPCN Nhóm tiêu hóa,,tpcn-nhom-da-day,3
+TPCN nhóm khác,,tpcn-nhom-da-day,3
+TPCN Nhóm tim mạch,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.02_6.02-TPCN_Nh%C3%B3m_tim_m%E1%BA%A1ch_-_Huy%E1%BA%BFt_%C3%A1p_6.02-VMS_For_Heart_TPCN_Nhom_tim_mach_-_h.png,thuc-pham-chuc-nang,2
+TPCN Cho Huyết Áp,,tpcn-nhom-tim-mach,3
+TPCN Tuần hoàn máu,,tpcn-nhom-tim-mach,3
+TPCN Nhóm đường huyết,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.02.03_6.02.03-TPCN_Nh%C3%B3m_%C4%91%C6%B0%E1%BB%9Dng_huy%E1%BA%BFt_6.02.03-Diabetic_TPCN_Nhom_Duong_Huyet.png,thuc-pham-chuc-nang,2
+TPCN Nhóm hô hấp,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.03_6.03-TPCN_Nh%C3%B3m_h%C3%B4_h%E1%BA%A5p_6.03-VMS_For_Lungs_TPCN_Nhom_ho_hap.png,thuc-pham-chuc-nang,2
+TPCN Nhóm Keo Ong,,tpcn-nhom-ho-hap,3
+Nhóm xịt họng thảo dược,,tpcn-nhom-ho-hap,3
+TPCN Cho Phổi Khác,,tpcn-nhom-ho-hap,3
+TPCN Nhóm thần kinh,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.04_6.04-TPCN_Nh%C3%B3m_th%E1%BA%A7n_kinh_6.04-VMS_For_Brain_TPCN_Nhom_than_kinh.png,thuc-pham-chuc-nang,2
+TPCN giảm căng thẳng,,tpcn-nhom-than-kinh,3
+TPCN Giúp trí nhớ,,tpcn-nhom-than-kinh,3
+TPCN tuần hoàn máu,,tpcn-nhom-than-kinh,3
+TPCN hỗ trợ giấc ngủ,,tpcn-nhom-than-kinh,3
+TPCN Nhóm cơ xương khớp,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.05_6.05-TPCN_Nh%C3%B3m_c%C6%A1_x%C6%B0%C6%A1ng_kh%E1%BB%9Bp_6.05-VMS_For_Bone__Joint_TPCN_Nhom_co_xuong_kho.png,thuc-pham-chuc-nang,2
+TPCN chống loãng xương,,tpcn-nhom-co-xuong-khop,3
+TPCN hỗ trợ khớp,,tpcn-nhom-co-xuong-khop,3
+TPCN hỗ trợ gút,,tpcn-nhom-co-xuong-khop,3
+TPCN hỗ trợ xương khớp khác,,tpcn-nhom-co-xuong-khop,3
+TPCN Giảm cân,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.06_6.06-TPCN_Gi%E1%BA%A3m_c%C3%A2n_6.06-VMS_Dietary_TPCN_Giam_Can.jpg,thuc-pham-chuc-nang,2
+TPCN đốt mỡ,,tpcn-giam-can,3
+TPCN hỗ trợ chuyển hóa mỡ,,tpcn-giam-can,3
+TPCN tăng cân,,tpcn-giam-can,3
+TPCN Chăm sóc sắc đẹp,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.17.png,thuc-pham-chuc-nang,2
+TPCN đẹp da,,tpcn-cham-soc-sac-dep,3
+TPCN cho tóc,,tpcn-cham-soc-sac-dep,3
+TPCN hỗ trợ da móng tóc,,tpcn-cham-soc-sac-dep,3
+TPCN Chăm sóc sức khỏe nam và nữ,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.08_6.08-TPCN_Ch%C4%83m_s%C3%B3c_s%E1%BB%A9c_kh%E1%BB%8Fe_nam_v%C3%A0_n%E1%BB%AF_6.08-VMS_Mens__Womens_Health_TPCN_Cham.jpg,thuc-pham-chuc-nang,2
+TPCN hỗ trợ sinh lý nam,,tpcn-cham-soc-suc-khoe-nam-va-nu,3
+TPCN hỗ trợ sinh lý nữ,,tpcn-cham-soc-suc-khoe-nam-va-nu,3
+TPCN Nhóm Mắt/Tai/Mũi,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.09_6.09-TPCN_Nh%C3%B3m_M%E1%BA%AFtTaiM%C5%A9i_6.09-VMS_For_EyeEarNose_TPCN_Nhom_MatTaiMui_-_Copy.png,thuc-pham-chuc-nang,2
+TPCN cho mắt,,tpcn-nhom-mat/tai/mui,3
+TPCN cho tai,,tpcn-nhom-mat/tai/mui,3
+TPCN cho mũi,,tpcn-nhom-mat/tai/mui,3
+TPCN Vitamin tổng hợp và khoáng chất,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.10_6.10-TPCN_Vitamin_t%E1%BB%95ng_h%E1%BB%A3p_v%C3%A0_kho%C3%A1ng_ch%E1%BA%A5t_6.10-VMS_General_Vitamins__Mineral.png,thuc-pham-chuc-nang,2
+Vitamin tổng hợp,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+Vitamin C,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+Vitamin A/B/D,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+TPCN khác,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+TPCN cung cấp sắt,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+TPCN nhóm Omega,,tpcn-vitamin-tong-hop-va-khoang-chat,3
+TPCN Chăm sóc tóc,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.11.png,thuc-pham-chuc-nang,2
+TPCN Nhóm khác,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.14_6.14-TPCN_Nh%C3%B3m_kh%C3%A1c_6.14-VMS_Others_TPCN_Nhom_khac.png,thuc-pham-chuc-nang,2
+TPCN cho gan,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/6.15_6.15-TPCN_cho_gan_6.15-VMS_For_Liver_TPCN_Cho_Gan.png,thuc-pham-chuc-nang,2
+TPCN giải độc gan,,tpcn-cho-gan,3
+TPCN dành cho gan khác,,tpcn-cho-gan,3
+Hàng tổng hợp,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/5.01_H%C3%A0ng_t%E1%BB%95ng_h%E1%BB%A3p_5.01-General_Merchandise_Hang_tong_hop.png,san-pham-tien-loi,2
+Hàng dành cho du lịch,,hang-tong-hop,3
+"Khăn giấy, khăn ướt",,hang-tong-hop,3
+Hàng theo mùa,,hang-tong-hop,3
+Thiết bị điện gia dụng,,hang-tong-hop,3
+Hàng bách hóa,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/H%C3%A0ng_b%C3%A1ch_h%C3%B3a.png,san-pham-tien-loi,2
+Thức uống,,hang-bach-hoa,3
+Bánh quy,,hang-bach-hoa,3
+Bánh snack,,hang-bach-hoa,3
+"Kẹo, gum",,hang-bach-hoa,3
+Kem,,hang-bach-hoa,3
+Sản phẩm sữa và từ sữa,,hang-bach-hoa,3
+Thực phẩm khác,,hang-bach-hoa,3
+Sản phẩm phòng tắm,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.02_S%E1%BA%A3n_ph%E1%BA%A9m_ph%C3%B2ng_t%E1%BA%AFm_3.02-Bath_Care_San_pham_phong_tam.png,cham-soc-ca-nhan,2
+Sữa tắm,,san-pham-phong-tam,3
+Xà bông cục,,san-pham-phong-tam,3
+Phụ kiện phòng tắm,,san-pham-phong-tam,3
+Nước rửa tay,,san-pham-phong-tam,3
+Sản phẩm khử mùi,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.04_S%E1%BA%A3n_ph%E1%BA%A9m_kh%E1%BB%AD_m%C3%B9i_3.04-Deodorant_San_pham_khu_mui.png,cham-soc-ca-nhan,2
+Lăn khử mùi,,san-pham-khu-mui,3
+Xịt khử mùi,,san-pham-khu-mui,3
+Sáp khử mùi,,san-pham-khu-mui,3
+Chăm sóc tóc,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.05_Ch%C4%83m_s%C3%B3c_t%C3%B3c_3.05-Hair_Care_Cham_soc_toc.png,cham-soc-ca-nhan,2
+Dầu gội đầu,,cham-soc-toc,3
+Dầu xả,,cham-soc-toc,3
+Dưỡng tóc,,cham-soc-toc,3
+Tạo kiểu tóc,,cham-soc-toc,3
+Nhuộm tóc,,cham-soc-toc,3
+Vệ sinh phụ nữ,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.06_V%E1%BB%87_sinh_ph%E1%BB%A5_n%E1%BB%AF_3.06-Feminine_Hygiene_Ve_sinh_phu_nu.png,cham-soc-ca-nhan,2
+Dung dịch vệ sinh phụ nữ,,ve-sinh-phu-nu,3
+BVS hàng ngày,,ve-sinh-phu-nu,3
+Băng vệ sinh,,ve-sinh-phu-nu,3
+BVS dạng ống,,ve-sinh-phu-nu,3
+Sản phẩm vệ sinh khác,,ve-sinh-phu-nu,3
+Chăm sóc nam giới,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.07_Ch%C4%83m_s%C3%B3c_nam_gi%E1%BB%9Bi_3.07-Men_Care_Cham_soc_nam_gioi.png,cham-soc-ca-nhan,2
+Dao cạo râu & Bọt cạo râu,,cham-soc-nam-gioi,3
+Chăm sóc tóc cho nam,,cham-soc-nam-gioi,3
+Chăm sóc da mặt cho nam,,cham-soc-nam-gioi,3
+Sản phẩm tắm & dưỡng thể cho nam,,cham-soc-nam-gioi,3
+Khử mùi cho nam,,cham-soc-nam-gioi,3
+Chăm sóc răng miệng,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.08_Ch%C4%83m_s%C3%B3c_r%C4%83ng_mi%E1%BB%87ng_3.08-Oral_Care_Cham_soc_rang_mieng.png,cham-soc-ca-nhan,2
+Kem đánh răng,,cham-soc-rang-mieng,3
+Bàn chải đánh răng,,cham-soc-rang-mieng,3
+Nước súc miệng,,cham-soc-rang-mieng,3
+Tăm chỉ nha khoa,,cham-soc-rang-mieng,3
+Sản phẩm chăm sóc răng miệng khác,,cham-soc-rang-mieng,3
+Bột đánh răng,,cham-soc-rang-mieng,3
+Chăm sóc cơ thể,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/3.03_Ch%C4%83m_s%C3%B3c_c%C6%A1_th%E1%BB%83_3.03-Body_Care_Cham_soc_co_the.png,cham-soc-ca-nhan,2
+Dưỡng thể,,cham-soc-co-the,3
+Dầu dưỡng thể & massage,,cham-soc-co-the,3
+Tẩy tế bào chết toàn thân,,cham-soc-co-the,3
+Kem chống nắng toàn thân,,cham-soc-co-the,3
+Dưỡng da tay & tẩy tế bào chết,,cham-soc-co-the,3
+Mặt nạ tay,,cham-soc-co-the,3
+Dưỡng da chân & tẩy tế bào chết,,cham-soc-co-the,3
+Mặt nạ chân,,cham-soc-co-the,3
+Đặc trị cơ thể,,cham-soc-co-the,3
+Chăm sóc mặt,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/4.01_Ch%C4%83m_s%C3%B3c_m%E1%BA%B7t_4.01-Face_Care_Cham_soc_mat.png,cham-soc-sac-dep,2
+Nước tẩy trang,,cham-soc-mat,3
+Mặt nạ dưỡng da,,cham-soc-mat,3
+Sữa rửa mặt,,cham-soc-mat,3
+Tẩy tế bào chết cho mặt,,cham-soc-mat,3
+Dưỡng môi,,cham-soc-mat,3
+Kem dưỡng ẩm và dưỡng da,,cham-soc-mat,3
+Nước hoa hồng & Xịt khoáng,,cham-soc-mat,3
+Kem trị mụn,,cham-soc-mat,3
+Sản phẩm chống nắng,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/4.02_S%E1%BA%A3n_ph%E1%BA%A9m_ch%E1%BB%91ng_n%E1%BA%AFng_4.02-Sun_Care_San_pham_chong_nang.png,cham-soc-sac-dep,2
+Kem chống nắng dành cho mặt,,san-pham-chong-nang,3
+Kem chống nắng toàn thân,,san-pham-chong-nang,3
+Kem chống nắng cho mặt và cơ thể,,san-pham-chong-nang,3
+Dưỡng da sau khi đi nắng,,san-pham-chong-nang,3
+Dụng cụ làm đẹp,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/4.03_D%E1%BB%A5ng_c%E1%BB%A5_l%C3%A0m_%C4%91%E1%BA%B9p_4.03-Beauty_Accessories_Dung_cu_lam_dep.png,cham-soc-sac-dep,2
+Cotton,,dung-cu-lam-dep,3
+Phụ kiện trang điểm,,dung-cu-lam-dep,3
+Phụ kiện tóc,,dung-cu-lam-dep,3
+Phụ kiện làm móng,,dung-cu-lam-dep,3
+Dược mỹ phẩm,https://data-service.pharmacity.io/pmc-upload-media/production/pmc-ecm-core/category-icons/2_01_D%C6%B0%E1%BB%A3c_m%E1%BB%B9_ph%E1%BA%A9m_2_01_Dermo_Skincare_Duoc_my_pham2.png,cham-soc-sac-dep,2
+Tinh chất & Serum,,duoc-my-pham,3
+Kem dưỡng ẩm,,duoc-my-pham,3
+Nước cân bằng & xịt khoáng,,duoc-my-pham,3
+Nước tẩy trang & sữa rửa mặt,,duoc-my-pham,3
+Mặt nạ dưỡng da,,duoc-my-pham,3
+Sản phẩm chống nắng & sau khi đi nắng,,duoc-my-pham,3
+Sản phẩm trị sẹo,,duoc-my-pham,3
+Tẩy tế bào chết chuyên sâu,,duoc-my-pham,3
+Sản phẩm khử mùi chuyên sâu,,duoc-my-pham,3
+Dưỡng thể chuyên sâu,,duoc-my-pham,3
+Sữa tắm chuyên sâu,,duoc-my-pham,3
+Son dưỡng môi,,duoc-my-pham,3
+Dầu gội & dầu xả chuyên sâu,,duoc-my-pham,3
+Sản phẩm chống lão hóa,,duoc-my-pham,3
+Sản phẩm trị mụn,,duoc-my-pham,3
+Dược mỹ phẩm cho da vùng mắt,,duoc-my-pham,3
