@@ -24,8 +24,9 @@ interface IProduct {
 }
 const main = async () => {
     const { status, body } = await getRequest('http://localhost:8082/v1/category');
-    const categories: ICategoreis[] = status === 200 ? body : [];
-    for (let i = 0; i < categories.length; i++) {
+    let categories: ICategoreis[] = status === 200 ? body : [];
+    categories = categories.filter(item => item.level === 3);
+    for (let i = 152; i < categories.length; i++) {
         const { status, body } = await getRequest(`https://api-gateway.pharmacity.vn/api/category?slug=${categories[i].slug}`);
         const productCategory = status === 200 ? body.data.products.edges : [];
         const slugProduct: string[] = [];
@@ -53,7 +54,8 @@ const main = async () => {
             }
         }
         console.log(data)
-        fs.appendFileSync('assets/products.txt', JSON.stringify(data), 'utf8');
+        fs.appendFileSync(`assets/products-${i}.txt`, JSON.stringify(data)
+            + ",", 'utf8');
     }
 }
 function getRequest(url: string) {
