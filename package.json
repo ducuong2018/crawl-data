@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "nodemon ./getProduction.ts localhost 8323"
+    "start": "nodemon ./generateSqlProduct.ts localhost 8323"
   },
   "name": "crawl-data",
   "version": "1.0.0",
